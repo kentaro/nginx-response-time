@@ -1,0 +1,36 @@
+2012/06/25 22:49:09 [emerg] 67754#0: open() "././mime.types" failed (2: No such file or directory) in ././nginx.conf:18
+2012/06/25 22:49:41 [error] 67973#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:49:42 [error] 67973#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:49:43 [error] 67973#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:49:43 [error] 67973#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:50:41 [error] 68247#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:50:41 [error] 68247#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:50:45 [error] 68247#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:50:45 [error] 68247#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:50:51 [error] 68247#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:50:51 [error] 68247#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:51:06 [error] 68247#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:51:07 [error] 68247#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:53:10 [error] 68579#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:53:11 [error] 68579#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:53:13 [error] 68579#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:53:13 [error] 68579#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:53:14 [error] 68579#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:53:14 [error] 68579#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:54:46 [error] 68759#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:54:46 [error] 68759#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:54:48 [error] 68759#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:54:48 [error] 68759#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:54:54 [error] 68759#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:54:54 [error] 68759#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:56:49 [error] 68954#0: *1 "./html/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:56:50 [error] 68954#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2012/06/25 22:58:55 [emerg] 69433#0: bind() to 0.0.0.0:8080 failed (48: Address already in use)
+2012/06/25 22:58:55 [emerg] 69433#0: bind() to 0.0.0.0:8080 failed (48: Address already in use)
+2012/06/25 22:58:55 [emerg] 69433#0: bind() to 0.0.0.0:8080 failed (48: Address already in use)
+2012/06/25 22:58:55 [emerg] 69433#0: bind() to 0.0.0.0:8080 failed (48: Address already in use)
+2012/06/25 22:58:55 [emerg] 69433#0: bind() to 0.0.0.0:8080 failed (48: Address already in use)
+2012/06/25 22:58:55 [emerg] 69433#0: still could not bind()
+2012/06/25 22:59:52 [emerg] 69618#0: no "events" section in configuration
+2012/06/25 23:00:07 [emerg] 69661#0: open() "/dev/error" failed (13: Permission denied)
+2012/06/25 23:17:08 [emerg] 73758#0: "timer_resolution" directive invalid value in ././nginx.conf:3
